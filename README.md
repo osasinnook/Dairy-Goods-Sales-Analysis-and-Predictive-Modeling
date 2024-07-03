@@ -75,3 +75,6 @@ To run the dairy goods sales analysis and predictive modeling, follow these step
    ```bash
    git clone https://github.com/osasinnook/Dairy-Goods-Sales-Analysis-and-Predictive-Modeling.git
    cd Dairy-Goods-Sales-Analysis-and-Predictive-Modeling
+
+## Dataset
+You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/suraj520/dairy-goods-sales-dataset).
