@@ -66,3 +66,12 @@ We developed two predictive models:
 - **Features:** Month, Year, Product ID, Approx. Total Revenue (INR), Quantity Sold (liters/kg), Total Value, Quantity in Stock (liters/kg), Minimum Stock Threshold (liters/kg), Reorder Quantity (liters/kg).
 - **Model:** Random Forest Regressor.
 - **Performance:** Evaluated using RMSE and test score.
+
+## Running the Analysis
+
+To run the dairy goods sales analysis and predictive modeling, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/dairy-goods-sales-analysis.git
+   cd dairy-goods-sales-analysis
