@@ -73,5 +73,5 @@ To run the dairy goods sales analysis and predictive modeling, follow these step
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dairy-goods-sales-analysis.git
-   cd dairy-goods-sales-analysis
+   git clone https://github.com/osasinnook/Dairy-Goods-Sales-Analysis-and-Predictive-Modeling.git
+   cd Dairy-Goods-Sales-Analysis-and-Predictive-Modeling
